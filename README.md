@@ -17,4 +17,5 @@ github.com
 ```git commit -m "<message>"```
 9. Push commits to remote repo
 ```git push```
-
+10. Check log of changes
+```git --oneline```
